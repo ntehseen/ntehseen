@@ -1,9 +1,9 @@
 <!--- Header -->
 <p align="center">
-  <img src="https://your-image-url.com/your-header-image.png" alt="Header Image">
+  <img src="[https://your-image-url.com/your-header-image.png](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" alt="Header Image">
 </p>
 
-# 👋 Hello World! I'm Navid Tehseen
+# 👋 Hello! I'm Navid Tehseen
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navid%20Tehseen-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/navidtehseen/)

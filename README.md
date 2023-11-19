@@ -74,7 +74,7 @@ I am an aspiring data scientist and software developer currently pursuing a Bach
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio](https://[your-portfolio-url.com](https://friendly-kelpie-b93dd4.netlify.app))
+- 🌐 [Portfolio](https://friendly-kelpie-b93dd4.netlify.app)
 - 📧 Email: navid.tehseen@gmail.com
 
 <!--- Footer -->

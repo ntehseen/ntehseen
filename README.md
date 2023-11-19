@@ -70,11 +70,11 @@ I am an aspiring data scientist and software developer currently pursuing a Bach
 
 ## 📊 GitHub Stats
 
-[![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Navid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntehseen&show_icons=true&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio](https://your-portfolio-url.com)
+- 🌐 [Portfolio](https://[your-portfolio-url.com](https://friendly-kelpie-b93dd4.netlify.app))
 - 📧 Email: navid.tehseen@gmail.com
 
 <!--- Footer -->

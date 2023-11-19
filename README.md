@@ -1,6 +1,6 @@
 <!--- Header -->
 <p align="center">
-  <img src="[https://your-image-url.com/your-header-image.png](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" alt="Header Image">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Header Image">
 </p>
 
 # 👋 Hello! I'm Navid Tehseen

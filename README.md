@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 <svg height="400" width="600" xmlns="http://www.w3.org/2000/svg">
 
-  <script type="text/ecmascript">
-    <![CDATA[
-      function showAlert() {
-        alert("Hello from SVG!");
-      }
-    ]]>
-  </script>
-
   <style>
     text {
       font-family: 'Fira Code', 'Courier New', monospace;

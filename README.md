@@ -6,7 +6,7 @@
 # 👋 Hello! I'm Navid Tehseen
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ntehseen&style=flat-square&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navid%20Tehseen-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/navidtehseen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navid%20Tehseen-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/navid-tehseen-998b87148)
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-darkgreen?logo=github&style=flat-square)](https://github.com/YourGitHubUsername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-orange?style=flat-square)](https://your-portfolio-url.com)
 

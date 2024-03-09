@@ -1,7 +1,7 @@
 
 <!--- Header -->
 <p align="center">
-  <img src="https://giphy.com/gifs/QaMhVZVwOvDiw" alt="Header Image" style="width: 100%">
+  <img src="[https://giphy.com/gifs/QaMhVZVwOvDiw](https://www.behance.net/gallery/45843061/ggridio/modules/273934879)" alt="Header Image" style="width: 100%">
 </p>
 
 # 👋 Hello! I'm Navid Tehseen

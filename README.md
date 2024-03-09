@@ -3,7 +3,6 @@
 <p align="center">
   <img src="(https://www.behance.net/gallery/45843061/ggridio)" alt="Header Image" style="width: 100%">
 </p>
-https://www.behance.net/gallery/45843061/ggridio
 
 # 👋 Hello! I'm Navid Tehseen
 

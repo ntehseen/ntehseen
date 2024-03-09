@@ -12,4 +12,14 @@
 
 ## 🚀 About Me
 
-I am an aspiring data scientist and software developer currently pursuing a Bachelor of Science in Data Science. With a strong background in customer service, I bring a customer-centric approach to my technical work, ensuring that solutions not only meet technical requirements but also address stakeholder needs.
+I am a seasoned data scientist and software developer with extensive experience in delivering impactful solutions across various domains. My expertise lies in leveraging data-driven insights to drive business outcomes and enhance customer experiences. With a strong background in customer service, I bring a customer-centric approach to my technical work, ensuring that solutions not only meet technical requirements but also address stakeholder needs.
+
+## 💼 Skills
+
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square), ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+- **Data Analysis**: ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square), ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square), ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white&style=flat-square), ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat-square)
+- **Machine Learning**: ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square), ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square), ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
+- **Database Management**: ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square), ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square), ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+- **Other Tools**: ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square), ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)

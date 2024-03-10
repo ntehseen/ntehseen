@@ -17,6 +17,43 @@ I am a seasoned data scientist and software developer with extensive experience 
 
 ## 💼 Skills
 
+
+## Programming Languages
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
+</p>
+
+## Data Analysis & Machine Learning
+<p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_Jupyter_logo.svg" alt="Jupyter" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="NumPy" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Seaborn_logo.svg" alt="Seaborn" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="65" height="65"/>
+</p>
+
+## Web Development
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML5" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS3" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="65" height="65"/>
+</p>
+
+## Database Management
+<p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="65" height="65"/>
+</p>
+
+## Version Control & Tools
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="⬤
+
 # Project Name
 
 ## Programming Languages
@@ -59,3 +96,5 @@ I am a seasoned data scientist and software developer with extensive experience 
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="65" height="65"/>
 </p>
+
+# Project Name

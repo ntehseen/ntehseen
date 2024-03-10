@@ -17,90 +17,29 @@ I am a seasoned data scientist and software developer with extensive experience 
 
 ## 💼 Skills
 
-# Project Name
-
-## Programming Languages
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-</p>
-
-## Data Analysis & Machine Learning
-<p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="Seaborn" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="Scikit-learn" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="65" height="65"/>
-</p>
-
-## Web Development
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML5" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS3" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="65" height="65"/>
-</p>
-
-## Database Management
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle SQL" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="KQL" width="65" height="65"/>
-</p>
-
-## Version Control & Tools
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="65" height="65"/>
-</p>
-
-
-# Project Name
-
-## Programming Languages
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-</p>
-
-## Data Analysis & Machine Learning
-<p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-line-wordmark.svg" alt="Pandas" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="Seaborn" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="Scikit-learn" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="65" height="65"/>
-</p>
-
-## Web Development
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML5" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS3" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="65" height="65"/>
-</p>
-
-## Database Management
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle SQL" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="KQL" width="65" height="65"/>
-</p>
-
-## Version Control & Tools
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="65" height="65"/>
-</p>
-
+- **Programming Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square),
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square),
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+- **Data Analysis & Machine Learning**: 
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square),
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square),
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white&style=flat-square),
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat-square),
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square),
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square),
+  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+- **Web Development**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square),
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square),
+  ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
+- **Database Management**: 
+  ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white&style=flat-square),
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square),
+  ![KQL](https://img.shields.io/badge/KQL-00B3E6?logo=microsoftazure&logoColor=white&style=flat-square)
+- **Version Control & Tools**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square),
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square),
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square),
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square),
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)

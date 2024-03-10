@@ -52,7 +52,7 @@ I am a seasoned data scientist and software developer with extensive experience 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="65" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="65" height="65"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="⬤
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="⬤  width="65" height="65"/>
 
 # Project Name
 

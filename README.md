@@ -26,9 +26,11 @@ I am a seasoned data scientist and software developer with extensive experience 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
 </p>
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg
+
 ## Data Analysis & Machine Learning
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="65" height="65"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="Seaborn" width="65" height="65"/>

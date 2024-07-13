@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-retro-header-image-url.png" alt="Retro Header Image" style="width: 100%">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQzdDduazZqaGx1aWJyMW16dmx4ZXNvaXFnZGozNjRqemJxMDk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="Retro Header Image" style="width: 100%">
 </p>
 
 # 👾 Welcome to Navid's Retro Code Adventure!

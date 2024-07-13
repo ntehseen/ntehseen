@@ -12,7 +12,7 @@
 
 ## 🎮 About Me
 
-Ahoy there! I'm Navid, a daring explorer in the realms of data and code. Armed with my trusty keyboard and a passion for pixels, I craft enchanting solutions using technologies straight out of the retro gaming universe. Join me as we embark on an epic quest through the digital landscapes of technology!
+I'm a passionate data scientist and software developer with a strong foundation in fullstack development and machine learning. I specialize in creating innovative solutions using technologies like Next.js, React, Angular, TensorFlow, and more. My unique blend of technical skills and extensive customer service experience allows me to deliver user-centric and impactful solutions.
 
 ## 💾 Skills & Power-Ups
 

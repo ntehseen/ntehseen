@@ -1,4 +1,3 @@
-
 <!--- Header -->
 <p align="center">
   <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47ced24kaa5p9gkvbcsogzi764b2g5a509wkcgmlh5&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Header Image" style="width: 100%">
@@ -13,26 +12,23 @@
 
 ## 🚀 About Me
 
-I am a seasoned data scientist and software developer with extensive experience in delivering impactful solutions across various domains. My expertise lies in leveraging data-driven insights to drive business outcomes and enhance customer experiences. With a strong background in customer service, I bring a customer-centric approach to my technical work, ensuring that solutions not only meet technical requirements but also address stakeholder needs.
+I'm a passionate data scientist and software developer with a strong foundation in fullstack development and machine learning. I specialize in creating innovative solutions using technologies like Next.js, React, Angular, TensorFlow, and more. My unique blend of technical skills and extensive customer service experience allows me to deliver user-centric and impactful solutions.
 
 ## 💼 Skills
 
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square),
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square),
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-- **Data Analysis & Machine Learning**: 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square),
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square),
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white&style=flat-square),
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat-square),
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square),
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square),
-  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
-- **Web Development**: 
+- **Fullstack Development**: 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square),
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square),
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square),
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square),
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square),
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square),
-  ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+- **Machine Learning & Data Analysis**: 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square),
+  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square),
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square),
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square),
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 - **Database Management**: 
   ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white&style=flat-square),
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square),
@@ -43,3 +39,21 @@ I am a seasoned data scientist and software developer with extensive experience 
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square),
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square),
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
+
+## 🌐 Connect with Me
+
+<a href="https://github.com/ntehseen">
+  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/navid-tehseen">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/navid.tehseen">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+</a>
+<a href="https://www.kaggle.com/navidtehseen">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle">
+</a>
+<a href="https://linktr.ee/navid.tehseen">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=flat-square" alt="Linktree">
+</a>

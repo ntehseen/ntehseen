@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQzdDduazZqaGx1aWJyMW16dmx4ZXNvaXFnZGozNjRqemJxMDk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="Retro Header Image" style="width: 100%">
 </p>
 
-# 👾 Welcome to Navid's Retro Code Adventure!
+# 👾 Welcome to my Code Adventure!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ntehseen&style=flat-square&color=blue)
 <a href="https://www.linkedin.com/in/ntehseen" style="text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-Navid%20Tehseen-blue?logo=linkedin&logoColor=white&style=flat-square&labelColor=blue"></a>
